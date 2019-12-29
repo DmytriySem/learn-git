@@ -6,3 +6,5 @@ Bomb
 First work
 
 Second work
+
+Before rebase
